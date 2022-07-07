@@ -1,0 +1,14 @@
+.webcam-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 0;
+}
+.webcam-container .webcam-btr {
+  margin-top: 10px;
+  width:30%;
+}
+
+.webcam-img img {
+  width: 100%;
+}
